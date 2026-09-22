@@ -1,0 +1,6 @@
+{
+  "name": "MedVision AI - Medical Disease Image Classification Studio",
+  "description": "Deep learning platform for medical image classification with CNN & Transfer Learning (ResNet, DenseNet, EfficientNet, ViT), Grad-CAM explainability, public datasets (Chest X-ray, ISIC, BraTS), and Python PyTorch/TensorFlow code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
